@@ -1,22 +1,31 @@
 # Growth Lab 🚀
 
-This is my space to explore ideas around growth, data, and systems.
+This is my space to explore ideas through curiosity, not perfection.
 
-## What I'm working on
-- Experimenting with user acquisition & activation flows  
-- Analyzing data to understand behavior and improve decisions  
-- Building small systems and automations  
+## What is this?
+A personal lab where I test small ideas related to:
+- Growth  
+- Data  
+- User behavior  
+- Systems  
+
+## Current experiment 😄
+**Emoji Me**
+
+Exploring how images can be transformed into emoji-style outputs using AI tools.
+
+## How I work
+- I start with curiosity  
+- I test small ideas  
+- I learn by doing (and sometimes breaking things)  
 
 ## What you'll find here
-- Mini projects  
 - Experiments  
-- Dashboards and data explorations  
+- Mini projects  
+- Random ideas turned into something  
 
 ## Why this exists
-I’m interested in how things grow — users, products, and ideas.  
-This repo is where I test, break, and learn.
+I believe you learn faster by building and exploring, not just consuming.
 
-## About me
-Background in growth and operations, currently exploring data, automation, and experimentation.
-
----
+## Status
+Always a work in progress 🚧
