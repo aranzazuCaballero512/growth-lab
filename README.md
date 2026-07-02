@@ -29,3 +29,7 @@ I believe you learn faster by building and exploring, not just consuming.
 
 ## Status
 Always a work in progress 🚧
+
+## Learnings
+- Curiosity > perfection  
+- Small experiments create clarity  
